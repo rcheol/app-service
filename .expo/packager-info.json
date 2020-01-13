@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8944,
+  "expoServerNgrokUrl": "https://47-tq4.anonymous.app-service.exp.direct",
+  "packagerNgrokUrl": "https://packager.47-tq4.anonymous.app-service.exp.direct",
+  "ngrokPid": 6760,
   "webpackServerPort": null
 }
